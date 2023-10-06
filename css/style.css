@@ -23,10 +23,6 @@ h3{
   margin-bottom: 0.8em;
 }
 
-.a {
-  color: #f87800;
-}
-
 header{
   height: 80vh;
   background-color: #000000;
@@ -67,7 +63,7 @@ main{
 article{
   padding: inherit;
   margin-bottom: 2em;
-  border: 2px solid #0ac2f9;
+  border: 2px solid #4d1aac;
   border-radius: 15px;
 }
 
@@ -100,7 +96,7 @@ article{
   position: fixed;
   width: 100%;
   top: 0px;
-  background: #24252ad4;
+  background: #28242a;
   color: #fff;
 }
 
@@ -137,8 +133,8 @@ article{
 
 .navbar a:hover {
   transition: 0.1s;
-  color: #0ac2f9;
-    border-bottom: 3px solid #f8b700;;
+  color: #710af9;
+    border-bottom: 3px solid #f88d00;;
 }
 
 @media (max-width: 768px) {
@@ -266,11 +262,6 @@ article video{
   width: 100%;
   height: -1000px;
   object-fit: cover;
-}
-
-footer {
-  display: flex;
-  justify-content: center;
 }
 
 .logo3 {
